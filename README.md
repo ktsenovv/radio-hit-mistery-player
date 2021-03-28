@@ -46,4 +46,4 @@ v1.0: First Release.
 <br />
 
 <h1>:copyright: Copyright <a href="#-cmd-launcher" title="Go to Navigation">[↑]</a></h1>
-© Kristian Cenow. All rights reserved.
+© Kristian Cenow. All rights reserved. Radio Hit Mistery and all related elements are trademarks of and © Radio Hit Mistery.
