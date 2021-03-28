@@ -13,7 +13,7 @@
 
 <a href="https://kcenow.com/rhmplayer/" target="_blank">• Live Preview •</a>
 
-<h3><a href="https://kcenow.com/rhmplayer/" onclick="window.open(this.href,'targetWindow',`toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize`); return false;">Popup link</span>
+<h3><p onclick="window.open(this.href,'targetWindow',`toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize`); return false;">Popup link</p>
 
 <h4><img src="https://raw.githubusercontent.com/kcenow/Web-Based-Radio-Player/main/Preview/Preview%2001.png"><br />
 (Picture #1)</h4>
