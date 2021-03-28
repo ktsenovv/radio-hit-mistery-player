@@ -11,7 +11,8 @@
 
 <h1>:milky_way: Preview <a href="#-radio-hit-mistery-player" title="Go to Navigation">[↑]</a></h1>
 
-<h3><a href="https://kcenow.com/rhmplayer/" target="_blank">• Live Preview •</a> (Attention - Browsers blocked flash player, because Adobe no longer supports it!)</h3>
+<h3><a href="https://kcenow.com/rhmplayer/" target="_blank">• Live Preview •</a><br />
+(Attention - Browsers blocked flash player, because Adobe no longer supports it!)</h3>
 
 <h4><img src="https://raw.githubusercontent.com/kcenow/Web-Based-Radio-Player/main/Preview/Preview%2001.png"><br />
 (Picture #1)</h4>
