@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kcenow/Web-Based-Radio-Player/main/favicon.ico" width="35px" height="35px"> Web Based Radio Player</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kcenow/Web-Based-Radio-Player/main/favicon.ico" width="35px" height="35px"> Radio Hit Mistery Player</h1>
 <p align="center"><b><a href="#page_facing_up-description-">:page_facing_up:DESCRIPTION</a> • <a href="#milky_way-preview-">:milky_way:PREVIEW</a> • <a href="#scroll-changelog-">:scroll:CHANGELOG</a> • <a href="#copyright-copyright-">:copyright:COPYRIGHT</a></b></p>
 
 <br />
