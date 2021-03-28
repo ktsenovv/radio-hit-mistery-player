@@ -3,13 +3,13 @@
 
 <br />
 
-<h1>:page_facing_up: Description <a href="#-cmd-launcher" title="Go to Navigation">[↑]</a></h1>
+<h1>:page_facing_up: Description <a href="#-web-based-radio-player" title="Go to Navigation">[↑]</a></h1>
 
 * Simple, but effective radio player for windows which is based on web technologies - DISCONTINUED.
 
 <br />
 
-<h1>:milky_way: Preview <a href="#-cmd-launcher" title="Go to Navigation">[↑]</a></h1>
+<h1>:milky_way: Preview <a href="#-web-based-radio-player" title="Go to Navigation">[↑]</a></h1>
 <h4><img src="https://raw.githubusercontent.com/kcenow/Web-Based-Radio-Player/main/Preview/Preview%2001.png"><br />
 (Picture #1)</h4>
 
@@ -27,7 +27,7 @@
 
 <br />
 
-<h1>:scroll: Changelog <a href="#-cmd-launcher" title="Go to Navigation">[↑]</a></h1>
+<h1>:scroll: Changelog <a href="#-web-based-radio-player" title="Go to Navigation">[↑]</a></h1>
 
 ```
 v1.5:
@@ -45,5 +45,5 @@ v1.0: First Release.
 
 <br />
 
-<h1>:copyright: Copyright <a href="#-cmd-launcher" title="Go to Navigation">[↑]</a></h1>
+<h1>:copyright: Copyright <a href="#-web-based-radio-player" title="Go to Navigation">[↑]</a></h1>
 © Kristian Cenow. All rights reserved. Radio Hit Mistery and all related elements are trademarks of and © Radio Hit Mistery.
