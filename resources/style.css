@@ -92,6 +92,7 @@ div.menu a:hover
 #marquee
 {
 	text-align: center;
+	color: #c516b7;
 	cursor: default;
 	height: 85px;
 	overflow: hidden;
