@@ -3,13 +3,13 @@
 
 <br />
 
-<h1>:page_facing_up: Description <a href="#-web-based-radio-player" title="Go to Navigation">[↑]</a></h1>
+<h1>:page_facing_up: Description <a href="#-radio-hit-mistery-player" title="Go to Navigation">[↑]</a></h1>
 
 * Simple, but effective radio player for windows which is based on web technologies - DISCONTINUED.
 
 <br />
 
-<h1>:milky_way: Preview <a href="#-web-based-radio-player" title="Go to Navigation">[↑]</a></h1>
+<h1>:milky_way: Preview <a href="#-radio-hit-mistery-player" title="Go to Navigation">[↑]</a></h1>
 
 <h3><a href="https://kcenow.com/rhmplayer/" target="_blank">• Live Preview •</a></h3>
 
@@ -30,7 +30,7 @@
 
 <br />
 
-<h1>:scroll: Changelog <a href="#-web-based-radio-player" title="Go to Navigation">[↑]</a></h1>
+<h1>:scroll: Changelog <a href="#-radio-hit-mistery-player" title="Go to Navigation">[↑]</a></h1>
 
 ```
 v1.5:
@@ -48,5 +48,5 @@ v1.0: First Release.
 
 <br />
 
-<h1>:copyright: Copyright <a href="#-web-based-radio-player" title="Go to Navigation">[↑]</a></h1>
+<h1>:copyright: Copyright <a href="#-radio-hit-mistery-player" title="Go to Navigation">[↑]</a></h1>
 © KC &#128640; Kristian Cenow. All rights reserved. Radio Hit Mistery Logo® and all related elements are trademarks of and © Radio Hit Mistery.
