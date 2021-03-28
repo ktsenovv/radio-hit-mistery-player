@@ -17,13 +17,13 @@
 (Picture #2)</h4>
 
 <h4><img src="https://raw.githubusercontent.com/kcenow/Web-Based-Radio-Player/main/Preview/Preview%2003.png"><br />
-(Picture #2)</h4>
+(Picture #3)</h4>
 
 <h4><img src="https://raw.githubusercontent.com/kcenow/Web-Based-Radio-Player/main/Preview/Preview%2004.png"><br />
-(Picture #2)</h4>
+(Picture #4)</h4>
 
 <h4><img src="https://raw.githubusercontent.com/kcenow/Web-Based-Radio-Player/main/Preview/Preview%2005.png"><br />
-(Picture #2)</h4>
+(Picture #5)</h4>
 
 <br />
 
