@@ -11,9 +11,7 @@
 
 <h1>:milky_way: Preview <a href="#-web-based-radio-player" title="Go to Navigation">[↑]</a></h1>
 
-<a href="https://kcenow.com/rhmplayer/" target="_blank">• Live Preview •</a>
-
-<h3><p onclick="window.open(this.href,'targetWindow',`toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize`); return false;">Popup link</p>
+<h3><a href="https://kcenow.com/rhmplayer/" target="_blank">• Live Preview •</a></h3>
 
 <h4><img src="https://raw.githubusercontent.com/kcenow/Web-Based-Radio-Player/main/Preview/Preview%2001.png"><br />
 (Picture #1)</h4>
