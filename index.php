@@ -53,9 +53,9 @@
 					<div id="version" onclick="slideIT('#versionfull')">Version: <?= $appversion; ?></div>
 					<div id="marquee">
 						<div>
-							<img src="<?= $applogo; ?>"><br>
-							<?= $apptitle; ?><br><br>
-							Code and design: <?= $appauthor ?><br><br>
+							<img src="<?= $applogo; ?>"><br />
+							<?= $apptitle; ?><br /><br />
+							Code and design: <?= $appauthor ?><br /><br />
 							<?= $appcopyright; ?>
 						</div>
 					</div>
@@ -64,9 +64,9 @@
 						<div class="exit" onclick="slideIT('#versionfull')"></div>
 						<div id="versionfulltext">
 							Current version: <?= $appversion; ?> <?= $appdate; ?>
-							<br><br>
+							<br /><br />
 							New version: <?= $appnversion; ?> <?= $appnversiondate; ?>
-							<br><br>
+							<br /><br />
 						</div>
 						<?php if($appnversionbutton) { ?><input type="button" value="Download" class="buttons" onfocus="this.blur()" onclick="window.open('<?= $appnversionurl; ?>', '_self')"> <?php } ?><input type="button" value="Changelog" class="buttons" onfocus="this.blur()" onclick="slideIT('#versionlog')">
 					</div>

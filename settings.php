@@ -3,10 +3,10 @@
  [Main Settings]
 =================================================================================*/
 
-$apptitle = 'Radio Hit Mistery Music Player'; // Title
+$apptitle = 'Radio Hit Mistery Player'; // Title
 $appversion = '1.5'; // Version
 $appdate = '[12.02.2013]'; // Version date
-$appauthor = 'KC'; // Author
+$appauthor = 'Kristian Cenow<br />[kcenow.com]'; // Author
 $appcopyright = 'Radio Hit Mistery © 2013'; // Copyright
 $appseparator = '»'; // Separator
 $applogo = 'resources/images/logo.png'; // Logo
