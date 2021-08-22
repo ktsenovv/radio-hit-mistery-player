@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kcenow/Web-Based-Radio-Player/main/favicon.ico" width="35px" height="35px"> Radio Hit Mistery Player</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kcenow/radio-hit-mistery-player/main/src/favicon.ico" width="35px" height="35px"> Radio Hit Mistery Player</h1>
 <p align="center"><b><a href="#page_facing_up-description-">:page_facing_up:DESCRIPTION</a> • <a href="#milky_way-preview-">:milky_way:PREVIEW</a> • <a href="#scroll-changelog-">:scroll:CHANGELOG</a> • <a href="#copyright-copyright-">:copyright:COPYRIGHT</a></b></p>
 
 <br />
@@ -14,19 +14,19 @@
 <h3><a href="https://kcenow.com/lab/rhmplayer/" target="_blank">• Live Preview •</a><br />
 (Attention - Browsers blocked flash player, because Adobe no longer supports it!)</h3>
 
-<h4><img src="https://raw.githubusercontent.com/kcenow/Web-Based-Radio-Player/main/Preview/Preview%2001.png"><br />
+<h4><img src="https://raw.githubusercontent.com/kcenow/radio-hit-mistery-player/main/preview/preview_01.png"><br />
 (Picture #1)</h4>
 
-<h4><img src="https://raw.githubusercontent.com/kcenow/Web-Based-Radio-Player/main/Preview/Preview%2002.png"><br />
+<h4><img src="https://raw.githubusercontent.com/kcenow/radio-hit-mistery-player/main/preview/preview_02.png"><br />
 (Picture #2)</h4>
 
-<h4><img src="https://raw.githubusercontent.com/kcenow/Web-Based-Radio-Player/main/Preview/Preview%2003.png"><br />
+<h4><img src="https://raw.githubusercontent.com/kcenow/radio-hit-mistery-player/main/preview/preview_03.png"><br />
 (Picture #3)</h4>
 
-<h4><img src="https://raw.githubusercontent.com/kcenow/Web-Based-Radio-Player/main/Preview/Preview%2004.png"><br />
+<h4><img src="https://raw.githubusercontent.com/kcenow/radio-hit-mistery-player/main/preview/preview_04.png"><br />
 (Picture #4)</h4>
 
-<h4><img src="https://raw.githubusercontent.com/kcenow/Web-Based-Radio-Player/main/Preview/Preview%2005.png"><br />
+<h4><img src="https://raw.githubusercontent.com/kcenow/radio-hit-mistery-player/main/preview/preview_05.png"><br />
 (Picture #5)</h4>
 
 <br />
