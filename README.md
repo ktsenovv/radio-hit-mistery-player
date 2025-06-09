@@ -50,4 +50,4 @@ v1.0: First Release.
 <br />
 
 <h1>:copyright: Copyright <a href="#-radio-hit-mistery-player" title="Go to Navigation">[↑]</a></h1>
-© Kristian Cenow &#128640; KC. All rights reserved. Radio Hit Mistery Logo® and all related elements are trademarks of and © Radio Hit Mistery.
+© Kristian Tsenov. All rights reserved. K® Logo and all related elements are trademarks of and © Kristian Tsenov. Radio Hit Mistery Logo® and all related elements are trademarks of and © Radio Hit Mistery.
